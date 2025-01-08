@@ -39,3 +39,8 @@ body {
 .bg-primary{
     background-color: #FFF8F3;
 }
+
+main section{
+    max-width: 1140px;
+    margin: 130px auto;
+}
