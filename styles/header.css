@@ -1,5 +1,8 @@
 header {
-    height: 837px;
+    /* height: 837px; */
+    background-image: url("../images/developer.png"), url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom left, bottom right;
 }
 
 nav {
@@ -76,4 +79,9 @@ nav ul li a {
     margin-bottom: 30px;
     margin-top: -20px;
     padding-right: 443px;
+}
+
+.hardy{
+    display: flex;
+    bottom: 0;
 }
